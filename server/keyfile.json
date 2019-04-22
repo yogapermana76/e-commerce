@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "virtual-plating-237409",
+  "private_key_id": "129a21439f0c1b182e23ee7fea015eb0a778fc84",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDS6L3fYsWLNB1o\nolk0+Eg38X5FLRH51XNkWOfWaHHz6pggmc38zzagVTadDobuJyxZkF544n6HgDXg\ntaMJhQNEYvbtLJ9lVtynpsfGvNbTZmwPu1rkCFUrqfYiPMhH9XR2bpigeAaQiKZv\nk8ISMV47Jg/NyyZ6GxI+EDsZBO/w7Y0V+3YUs5hR2erKH0bfwr/JedJzlOg0yt9z\nOFJC9iuqBgYBg9ibIMz2RXtHXa7wn8O/eJ/s+b0JAcOlEKCawQA3HEtlJf/6wgKT\nUccpMDNf9xktiHJKnqqfI/0CtxKiMyO6Ee5QimxTsb1j/pOK9I6+DofoghTMdyR6\nc5fgLluxAgMBAAECggEANIPPrUTkf6wHC5PrBumwX7+hi3t0r6LCo/CQL36bqxqV\nbP6m/+Ufiq4VFme02K1H2Xg9UbfBvh8CK1TGxvrH7LoAll8nRD4r3JHGShmgmww0\naXli4QcjH+dmujEsxGAdctTIa6JfLhNcb8lYiBujRTKNulX0W3CMqwfzEyB71x73\nNZnQp1oJBjpzQWxkgoTeAFBAz4FpIq/cAetTOz6HZymNMJIfrtwINsf4JjPjOyTP\nq9JHuKWAVmZzF6wgCjjigord+IGjQI9/RG5Z7ZVkGmWeY6x/90oN3yM8MWuqGr5g\nEAdPRPd4e1HyFfEhtexG224kHpsjaR020TuHDlfCPQKBgQD27pUpCAKW+UWP0Nic\nUFN8RzNqGdwG1xWSfkOIQC/4+FBw9VRDMecs/fG4vwqppaIwf2qc/eQ1Vhg29Oq5\n7it3cDM1EmottNYi1y1/hWhb1iMZxsK4IlAwwFbEO73jGZc00Ymr+G1O++BfZMOZ\nAl6+bnpYszKFjJ0A/4/wZ1InzQKBgQDap4HQS9wlKVHnxW3PCkPx7LzDckY4AVNp\nnUhjSvhTmsEujmcbb/u1EL8dGa40PBcZNiYHcAEVwkAose7dSIwQHj5M0DhOIF5L\n+aD5TpEFeN2vNTdCO/KSz6g8dSGtB+fKnaHSagSMT6hGKDAv1iCGsh9uD+UWzRnA\nGwLGSgnXdQKBgCowNwHMoYyjyBO7Ldb/DlR0Yb9l7aaphsEBm44i0U9rNWsnLx9P\n3lxcgrj6wtqbNuusSU3LPvsx229ARv4/R+PfIpCVtdhbRh6rvtVDuMHAAz07LTeC\nfUrnAawDPP0Y+TGH/0qHZj2RYRNLRvPUaNWGUJbo/t+8V3K9Nx1uuaWdAoGAVqo+\nEcl/oFsYU701IPL4q1MiHnWUz233Gc11e6Wjd7/HAiT/SSjBo6rXlTkwixOmNB/6\nQshqJa2wsHCWNK8klN7n4ppFNvItbf+rhiVV5c1aUK/PDzmjk/0quYvTpTmU7gI8\nuaG728FW+TfEobFFgx3mx0EVlEwHANWz69Q8wmECgYEAlyQFFyVGyrxoDx6UpYnQ\n0G6kwDlfTvrkQuCmEhNnYbq8+aWok5jX/+JHCXsKNgNLfDNORaLbEPOcIF8rzx/I\nIjoLnGhloMseKZn1Ey4ZN888UI86If2xqpMag92yyh+hjMLorzhywhYoyL0fYi2r\nq86zgj/ME4pUWAg+miijN1o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcs-demo@virtual-plating-237409.iam.gserviceaccount.com",
+  "client_id": "114472962485178341719",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcs-demo%40virtual-plating-237409.iam.gserviceaccount.com"
+}
