@@ -7,7 +7,6 @@ module.exports = {
     User.findById(userId)
       .then(foundUser => {
         if(foundUser.role == 'admin') {
-          res.status(200).json(foundUser)
           next()
         }
       })

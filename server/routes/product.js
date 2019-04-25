@@ -14,7 +14,7 @@ const multer = Multer({
 })
 
 router.get('/', productController.getAllProduct)
-router.post('/', multer.single('image'), gcsMiddlewares.sendUploadToGCS, productController.addProduct)
+router.post('/', authenticate, authorization, multer.single('image'), gcsMiddlewares.sendUploadToGCS, productController.addProduct)
 router.get('/:id', authenticate, productController.findOneProduct)
 router.delete('/:id', authenticate, authorization, productController.deleteProduct)
 router.put('/:id', authenticate, authorization, productController.updateProduct)

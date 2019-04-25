@@ -5,7 +5,7 @@ const port = 3000
 const cors = require('cors')
 const routes = require('./routes')
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost:27017/e-commerce', { useNewUrlParser: true });
+mongoose.connect(`mongodb+srv://${process.env.username}:${process.env.password}@cluster0-y1tro.mongodb.net/e-commerce?retryWrites=true`, { useNewUrlParser: true });
 
 const db = mongoose.connection
 db.on('error', console.error.bind(console, 'connection error:'))
